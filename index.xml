@@ -1,0 +1,72 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Ning Zhang</title>
+    <link>https://ning.im/</link>
+    <description>Recent content in Homepage on Ning Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ning.im/" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://ning.im/en/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <author>Ning Zhang</author>
+      <guid>https://ning.im/en/</guid>
+      <description>
+        <![CDATA[
+        
+        
+        <script>location.href='https://ning.im/en/';</script>
+        
+        ]]>
+      </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>日志</title>
+      <link>https://ning.im/cn/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <author>Ning Zhang</author>
+      <guid>https://ning.im/cn/</guid>
+      <description>
+        <![CDATA[
+        
+        
+        ]]>
+      </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>CV/简历</title>
+      <link>https://ning.im/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ning.im/cv/</guid>
+      <description>
+        <![CDATA[
+        <p>The latest CV is here~ (updated Nov 2022)</p>
+<p><a href="https://ning.im/folder/CV.pdf"><strong>In English</strong></a></p>
+<p>中文暂无</p>
+<h3 id="what-i-am-doing-now">What I am doing now</h3>
+<p>Working with Dr. George Frisvold in wildfire project. This project wants to find which information is the best for managers before making a fire control decision. My job focus on running data by using some economics models.</p>
+<h3 id="what-i-did-before">What I did before</h3>
+<ul>
+<li><strong>2017-2020</strong></li>
+</ul>
+<p>During my undergraduate research life, I worked with Dr. Zhenshan Bao and Dr. Lixiu Huang in several topics which included industrial transformation and precision poverty alleviation in China. I was very interested in solving poverty with high responsibility, but I found that economics thoughts does not work in China.</p>
+
+        
+        ]]>
+      </description>
+    </item>
+    
+    
+  </channel>
+</rss>

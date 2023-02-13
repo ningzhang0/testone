@@ -1,0 +1,89 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日志 on Ning Zhang</title>
+    <link>https://ning.im/cn/</link>
+    <description>Recent content in 日志 on Ning Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    <atom:link href="https://ning.im/cn/" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ning.im/cn/2016/05/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <author>Ning Zhang</author>
+      <guid>https://ning.im/cn/2016/05/about/</guid>
+      <description>
+        <![CDATA[
+        <p>This is a &ldquo;hello world&rdquo; example website for the <a href="https://github.com/rstudio/blogdown"><strong>blogdown</strong></a> package. The theme was forked from <a href="https://github.com/jrutheiser/hugo-lithium-theme">@jrutheiser/hugo-lithium-theme</a> and modified by <a href="https://github.com/yihui/hugo-lithium">Yihui Xie</a>.</p>
+
+        
+        ]]>
+      </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>关于</title>
+      <link>https://ning.im/cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Ning Zhang</author>
+      <guid>https://ning.im/cn/about/</guid>
+      <description>
+        <![CDATA[
+        <p>我目前漂泊在美国美丽的小城<a href="https://baike.baidu.com/item/%E5%9B%BE%E6%A3%AE/3482044?fromModule=lemma_search-box">图森</a>，不远万里是为了寻找“什么是经济学”这个问题的答案，也想知道“何为良好生活”。</p>
+<p>我并不清楚我是什么样的人，这个时候的我心中并没有答案，你可以查看我的正式<a href="https://ning.im/cv/">简历</a>，或许你能够了解一些。我是一个啤酒爱好者，喜欢到处游走，我经常会漫无目的的思考，热衷于做一些有意义的事情。</p>
+<p>留学生活改变了我很多，让我爱上做饭和思考，让我体验到了接近真相的生活和精神上的自由。</p>
+<h3 id="我正在所做的事情-2023春季">我正在所做的事情（2023春季）</h3>
+<ul>
+<li>提高很差的英语水平</li>
+<li>阅读经济学中高级的教材</li>
+<li>探索更好的研究合作机会</li>
+<li>想要在R语言coding的时候保持冷静</li>
+</ul>
+<h3 id="敬佩的人">敬佩的人</h3>
+<ul>
+<li>
+<p><a href="http://jjxy.nufe.edu.cn/info/1104/1692.htm">顾学宁</a>： 他的智慧是我一辈子无法学习完的：中国古典文学、西方经济学和哲学</p>
+</li>
+<li>
+<p><a href="https://economics.arizona.edu/person/george-frisvold">George Frisvold</a>： 一个幽默的老教授，老爷子改变了我的人生</p>
+</li>
+<li>
+<p><a href="https://economics.arizona.edu/person/satheesh-aradhyula">Satheesh Aradhyula</a>： 计量和统计教学最好的教授</p>
+</li>
+<li>
+<p><a href="https://yihui.org/">谢益辉</a>： R 语言大神，谦逊风趣</p>
+</li>
+<li>
+<p><a href="https://law.yale.edu/taisu-zhang">张泰苏</a>： 耶鲁法学教授，华人学者之光</p>
+</li>
+<li>
+<p><a href="https://economics.arizona.edu/person/tauhidur-rahman">Tauhidur Rahman</a>： 我心中经济学家的样子</p>
+</li>
+</ul>
+<h3 id="有趣的链接">有趣的链接</h3>
+<ul>
+<li><a href="http://shiyuda.net">Yuda Shi</a>：老史特地要求我加上“老友”标签</li>
+<li><a href="https://typora.io">Typora</a>：最佳markdown编辑软件</li>
+<li><a href="https://freakonomics.com">freakonomics</a>：最常听的英语博客</li>
+</ul>
+<h3 id="关于网站">关于网站</h3>
+<p>这个网站是复制修改谢益辉的<a href="https://yihui.org">网站</a>模板，我很喜欢他的模板和风格，就借用过来了，我并不懂太多的coding知识，所以有很多bug。网站使用R语言中的<a href="https://bookdown.org/yihui/blogdown/">Blogdown</a>创建，基于hugo架构。</p>
+<p>受到<a href="https://yihui.org/">谢益辉</a>：“我网故我在——谢卡尔”的影响，我想要在互联网上留下一些痕迹和思考，可以看得到过去。再者，或许对我的学术生涯有一些帮助，可以公布一些研究上的内容以供公众讨论和获得反馈。</p>
+<h3 id="联系">联系</h3>
+<p>邮箱：mail#ning.im</p>
+<p>推特：<a href="https://twitter.com/brucenzhang">@brucenzhang</a></p>
+<p>UArizona: <a href="https://economics.arizona.edu/person/ning-zhang">AREC</a></p>
+
+        
+        ]]>
+      </description>
+    </item>
+    
+    
+  </channel>
+</rss>
